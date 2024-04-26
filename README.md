@@ -2,8 +2,9 @@
 Crime map data scraper 
 
 # techniques
-1. python language
-2. python libraries
+#### python language
+
+#### python libraries
   - asyncio
   - argparse
   - httpx
