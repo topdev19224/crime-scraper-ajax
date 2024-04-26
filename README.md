@@ -2,12 +2,12 @@
 Crime map data scraper 
 
 # techniques
-- python
-- python libraries
-  . asyncio
-  . argparse
-  . httpx
-  . json
-  . csv
-  . fake_useragent
-  . argparse
+1. python language
+2. python libraries
+  - asyncio
+  - argparse
+  - httpx
+  - json
+  - csv
+  - fake_useragent
+  - argparse
